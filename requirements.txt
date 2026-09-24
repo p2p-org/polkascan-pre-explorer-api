@@ -11,7 +11,7 @@ falcon==1.4.1
 greenlet==0.4.15
 gunicorn==19.9.0
 idna==2.8
-importlib-metadata==0.19
+importlib-metadata==0.23
 jsonschema==2.6.0
 Mako==1.0.14
 MarkupSafe==1.1.1
