@@ -8,7 +8,7 @@ decorator==4.4.0
 dictalchemy==0.1.2.7
 dogpile.cache==0.7.1
 falcon==1.4.1
-greenlet==0.4.15
+greenlet==0.4.17
 gunicorn==19.9.0
 idna==2.8
 importlib-metadata==0.19
